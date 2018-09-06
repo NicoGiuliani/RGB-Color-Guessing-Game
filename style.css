@@ -1,0 +1,61 @@
+body {
+	background-color: #232323;
+	color: white;
+	font-family: "Montserrat", "Avenir", sans-serif;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+button {
+	background: none;
+	border: none;
+	color: steelblue;
+	font-size: inherit;
+	font-weight: 700;
+	height: 100%;
+	letter-spacing: 1px;
+	text-transform: inherit;
+}
+
+h1 { 
+	background-color: steelblue;
+	font-weight: normal;
+	margin: 0;
+	padding: 20px;
+	text-align: center; 
+}
+
+#container {
+	margin: 0 auto;
+	width: 600px;
+}
+
+#display {
+	font-size: 2.0em;
+}
+
+#message {
+	display: inline-block;
+	width: 200px;
+}
+
+#strip {
+	background-color: #fff;
+	color: steelblue;
+	text-align: center;
+	height: 30px;
+	width: 100%;
+}
+
+.selected {
+	background: steelblue;
+	color: white;
+}
+
+.square {
+	border-radius: 15px;
+	float: left;
+	margin: 1.66%;
+	padding-bottom: 30%;
+	width: 30%;
+}
