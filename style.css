@@ -10,6 +10,7 @@ button {
 	background: none;
 	border: none;
 	color: steelblue;
+	cursor: pointer;
 	font-size: inherit;
 	font-weight: 700;
 	height: 100%;
@@ -54,6 +55,7 @@ h1 {
 
 .square {
 	border-radius: 15px;
+	cursor: pointer;
 	float: left;
 	margin: 1.66%;
 	padding-bottom: 30%;
